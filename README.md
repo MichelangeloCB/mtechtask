@@ -6,8 +6,10 @@ Madatech Tasks CRUD.
 - `` git clone https://github.com/MichelangeloCB/mtechtask.git `` and put the files in: C:/xampp/htdocs/.
 - In .env set hostname and username according to your database settings.
 - Set your database port number.
+- Check tasks.sql.
 - RESTful API - JSON.
 - Use a testing platform to test API ports.
+  
 
 Complete CRUD. Add, Edit, List and Delete.
 
