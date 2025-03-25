@@ -5,7 +5,7 @@ Madatech Tasks CRUD.
 - Start Apache & MySQL.
 - `` git clone https://github.com/MichelangeloCB/mtechtask.git `` and put the files in: C:/xampp/htdocs/.
 - In .env set hostname and username according to your database settings.
-- Set your database port number
+- Set your database port number.
 - RESTful API - JSON.
 - Use a testing platform to test API ports.
 
