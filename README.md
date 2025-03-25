@@ -1,7 +1,7 @@
 Madatech Tasks CRUD.
 
 
-- To run this project -> : XAMPP, PHP 8 +, MySQL. Used: CodeIgniter4.
+- To run this project -> : XAMPP, PHP 8 +, MySQL, composer. Used: CodeIgniter4.
 - Start Apache & MySQL.
 - `` git clone https://github.com/MichelangeloCB/mtechtask.git `` and put the files in: C:/xampp/htdocs/.
 - In .env set hostname and username according to your database settings.
